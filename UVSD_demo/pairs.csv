@@ -1,0 +1,4 @@
+pair_id,vis_image,vis_labels,sonar_image,sonar_labels
+0000,Vis/imgs/vis-0000.png,Vis/labels/vis-0000.txt,Sonar/imgs/sonar-0000.png,Sonar/labels/sonar-0000.txt
+0019,Vis/imgs/vis-0019.png,Vis/labels/vis-0019.txt,Sonar/imgs/sonar-0019.png,Sonar/labels/sonar-0019.txt
+0049,Vis/imgs/vis-0049.png,Vis/labels/vis-0049.txt,Sonar/imgs/sonar-0049.png,Sonar/labels/sonar-0049.txt
